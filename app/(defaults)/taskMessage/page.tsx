@@ -1,4 +1,4 @@
-import TaskMessageTable from '@/components/datatables/Components-datatables-taskMessage';
+import TaskMessageTable from '@/components/datatables/Components-datatables-TaskMessage';
 import IconBell from '@/components/icon/icon-bell';
 import { Metadata } from 'next';
 import React from 'react';
